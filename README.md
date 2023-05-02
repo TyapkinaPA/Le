@@ -3,4 +3,4 @@
 3. [№3 Март](/March_lection_3.ipynb).
 4. [№4 Апрель](/Aprel_lection_4.ipynb).
 5. [№5 Апрель](/Aprel_lection_5.ipynb).
-6. [№6 Май](
+6. [№6 Май](/May_lection_6.ipynb).
